@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Greece</h3>
 <img align="right" alt="Coding" width="300" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
-- 👨‍💻 All of my projects are available at [https://github.com/GeorgeGiagkos]([https://github.com/GeorgeGiagkos](https://github.com/GeorgeGiagkos?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/GeorgeGiagkos?tab=repositories](https://github.com/GeorgeGiagkos?tab=repositories)
 
 - 💬 Ask me about **javascript, typescript, react, redux**
 
